@@ -4,6 +4,6 @@ Este repositório contém **apenas** a página de Política de Privacidade do ap
 
 **Não inclui código-fonte do aplicativo.** O app fica em outro repositório privado.
 
-- Desenvolvedor (Play Console): **Michel Lander Melo**
+- Desenvolvedor (Play Console): **Tiago Abdom Melo**
 - Contato: tiago.abdom@gmail.com
 - URL (GitHub Pages): https://tiagoabdom.github.io/reportgo-privacy/
